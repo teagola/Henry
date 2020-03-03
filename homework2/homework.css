@@ -6,7 +6,9 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 /* Ejercicio 1: Centrar el texto en un span */
 
 /* Arrancaremos este ejercicio por vos: */
-#ejercicioUno {display: block; text-align: center;
+#ejercicioUno {
+	display: block;
+	text-align: center;
 
 }
 
@@ -30,13 +32,11 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Ejercicio 5: */
 
-#ejercicioCinco {display: flex;justify-content: space-between;align-items: center;}
+#ejercicioCinco {display: flex;justify-content: space-around;align-items: center;}
 
 
 /* Ejercicio 6. */
 
 #ejercicioCinco {flex-direction: row-reverse;}
+#ejercicioSiete {display: flex;justify-content: center;align-items: center;}
 
-#elementoUno {display: flex;justify-content: center;align-items: center}
-#elementoDos {display: flex;position: relative; top:50px;left:50px;
-#elementos {}
